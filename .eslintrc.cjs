@@ -40,6 +40,8 @@ module.exports = {
     semi: [1, "never"],
 
     //Rules Backtick, double, single
+    eqeqeq: "off",
+    curly: "error",
     quotes: ["error", 2, "single", { avoidEscape: true }],
 
     "array-bracket-spacing": 1,
