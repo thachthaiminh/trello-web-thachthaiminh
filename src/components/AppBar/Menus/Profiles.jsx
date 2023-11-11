@@ -40,7 +40,7 @@ function Profiles() {
             aria-expanded={open ? "true" : undefined}
           >
             <Avatar
-              sx={{ width: 32, height: 32 }}
+              sx={{ width: 34, height: 34 }}
               alt="thachthaiminh"
               src="https://scontent.fsgn2-6.fna.fbcdn.net/v/t39.30808-6/399054462_881650290234336_256229904145980492_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=7t8Fwung1PYAX8fUXAe&_nc_ht=scontent.fsgn2-6.fna&oh=00_AfCK8ZQyJgiObQGDzF8bCBWT-vCXfWztrNZJmd5Vl9U13g&oe=655333B6"
             ></Avatar>{" "}
