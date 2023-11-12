@@ -22,7 +22,7 @@ function Templates() {
   return (
     <div>
       <Button
-        sx={{ fontWeight: "bold", fontSize: ".85rem" }}
+        sx={{ fontWeight: "bold", fontSize: ".85rem", color: "white" }}
         id="basic-button-templates"
         aria-controls={open ? "basic-menu" : undefined}
         aria-haspopup="true"
