@@ -24,7 +24,7 @@ function Workspaces() {
   return (
     <div>
       <Button
-        sx={{ fontWeight: "bold", fontSize: ".85rem" }}
+        sx={{ fontWeight: "bold", fontSize: ".85rem", color: "white" }}
         id="basic-button-workspaces"
         aria-controls={open ? "basic-menu" : undefined}
         aria-haspopup="true"

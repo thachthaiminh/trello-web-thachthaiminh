@@ -22,7 +22,7 @@ function Starred() {
   return (
     <div>
       <Button
-        sx={{ fontWeight: "bold", fontSize: ".85rem" }}
+        sx={{ fontWeight: "bold", fontSize: ".85rem", color: "white" }}
         id="basic-button-starred"
         aria-controls={open ? "basic-menu" : undefined}
         aria-haspopup="true"
